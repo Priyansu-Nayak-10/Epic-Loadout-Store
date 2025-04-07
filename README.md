@@ -24,8 +24,10 @@ Built using **HTML5** and **CSS3**, it features a clean, user-friendly UI — pe
 
 ### 💻 Desktop View  
 
+![image alt](https://github.com/Priyansu-Nayak-10/Epic-Loadout-Store/blob/fb0c4b78be263495c9e9079f77e840d39fe3beaa/Screenshots/Screenshot%202025-04-08%20001957.png)
 
-> Add your screenshot to a `/screenshots` folder in your repo.
+![image alt](https://github.com/Priyansu-Nayak-10/Epic-Loadout-Store/blob/fb0c4b78be263495c9e9079f77e840d39fe3beaa/Screenshots/Screenshot%202025-04-08%20002030.png)
 
-## 📁 Project Structure
+![image alt](https://github.com/Priyansu-Nayak-10/Epic-Loadout-Store/blob/fb0c4b78be263495c9e9079f77e840d39fe3beaa/Screenshots/Screenshot%202025-04-08%20002146.png)
 
+![image alt](https://github.com/Priyansu-Nayak-10/Epic-Loadout-Store/blob/fb0c4b78be263495c9e9079f77e840d39fe3beaa/Screenshots/Screenshot%202025-04-08%20002129.png)
